@@ -1,0 +1,56 @@
+Day-0
+R-4
+shoe-49992-Radford Boots-65.99-15-Shoelaces-Timberlands-metallic silver
+jacket-99857-Puffy ULTRA-233.99-2-Wool-Gucci
+shirt-16376-Caribbean Shirt-10.99-25-yellow-false-polyester
+other-57339-Toenail Clippers-5.75-12
+Day-1
+R-4
+49992-15
+99857-2
+other-99879-Silver Link Bracelet-200.00-3
+shirt-96521-Woodfort Flannel-19.99-30-red and black-false-wool
+NC-2
+Mingrui Yuan-211 Florida St.-410 730 6879-12345
+Christian Huber-021 Jump St.-122 303 2211-64582
+P-2
+OP-12345-3-57339-2-49992-2
+SP-64582-99857-1-57339-1
+PU-1
+64582
+Day-2
+R-3
+57339-20
+99857-3
+16376-10
+NC-2
+Alejandra de Osma-111 My Yacht Blvd.-123 123 4567-95082
+Christian Santiago-Madarame Ave.-400 867 5309-92015
+P-2
+OP-12345-3-57339-10
+SP-95082-16376-2-99879-1-57339-2
+Day-3
+R-2
+99879-4
+jacket-33654-High Cut Blue Boys-39.99-5-Denim-Blu Boy Gang
+P-3
+OP-92015-5-99857-1
+SP-95082-96521-2-99879-1
+SP-64582-99857-1
+PU-1
+95082
+Day-4
+R-1
+other-38827-An Actual Camel-6001.00-1
+NC-1
+Amadeus-123 Chicken Bone Ave.-344 590 2334-44021
+P-1
+OP-44021-4-33654-2-99879-1-49992-6
+PU-1
+64582
+Day-5
+P-2
+SP-44021-38827-3
+OP-92015-5-33654-2-96521-4
+PU-1
+44021
